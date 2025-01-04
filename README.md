@@ -22,7 +22,7 @@ Los eventos locales de .NET Conf son reuniones para ver las novedades, revisione
 
 | Topic | Speaker | Demo | Slides | 
 | --- | --- |  --- |  --- |
-| **Lo nuevo en ASP.NET Core & Blazor en .NET 9** | Nahiara Orgoñ & Alejandro Jimenez | Demo... | [Slides](https://speakerdeck.com/kripto/lo-nuevo-en-asp-dot-net-core-and-blazor-en-net-9) | 
+| **Lo nuevo en ASP.NET Core & Blazor en .NET 9** | Nahiara Orgoñ & Alejandro Jimenez |  [Demo](https://github.com/Kripto3/NetConf2024-proyectos) | [Slides](https://speakerdeck.com/kripto/lo-nuevo-en-asp-dot-net-core-and-blazor-en-net-9) | 
 | **.NET Aspire 9** | Ing. Jose A. Fernandez [![LinkedIn](./images/icon-linkedin.png)](https://www.linkedin.com/in/fernandezja/)&nbsp; [![GitHub](./images/icon-github.png)](https://github.com/fernandezja)| [Demo](https://github.com/fernandezja/aspire-net9-dotnetconf-2024) | [Slides](https://speakerdeck.com/fernandezja/dot-net-aspire-9) |
 | **Pushed Authorization Requests (PAR) en ASP.NET Core 9** | Marcos Polischuk | Demo... | Slides | 
 | **Descubre lo que .NET 9 tiene para IA: Una Revolución en el Desarrollo con Microsoft.Extensions** | Fernando Luján | Demo... | Slides | 
